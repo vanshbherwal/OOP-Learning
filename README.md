@@ -1,6 +1,6 @@
 # Python OOP Learning
 
-A collection of Python programs and notes I'm using to learn Object-Oriented Programming (OOP).
+A collection of Python programs and notes I'm using to learn Object-Oriented Programming (OOP). I watched this tutorial to learn and practice: https://youtu.be/iLRZi0Gu8Go?si=Ud9ez-_ke3ICEcuZ
 
 ## Concepts Covered
 
