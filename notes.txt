@@ -1,0 +1,28 @@
+Self refers to the specific object of the class itself
+
+__init__ initializes the attributes of an object when the object is created
+
+"To instantiate" means to create an object from the class. An object is an instance of that class
+
+"instantiating the dog class to create a dog object. An instance of the dog class is an dog object"
+
+---- User.py Notes ---- 
+
+self._methodname = makes attribute protected
+ - this means that we do not read this method outside this class or subclasses
+- python does not enforce this restriction (protected attribute is still accessible outside the class)
+    - signals to developers it is meant to be protected
+
+"Consenting Adults Philosopy" 
+- developers must respect convention of accessing _ methods
+- access is not strictly prevented (python assumes)
+
+
+self.__methodname = makes attribute private (name-mangled variables)
+
+Getters/setters allow us to access/modify data in a controlled way
+
+
+
+
+
